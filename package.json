@@ -75,7 +75,7 @@
     "react-native-picker-module": "^2.0.4",
     "react-native-popup-menu": "^0.15.11",
     "react-native-push-notification-popup": "^1.6.1",
-    "react-native-reanimated": "^1.9.0",
+    "react-native-reanimated": "^2.10.0",
     "react-native-restart": "0.0.17",
     "react-native-root-siblings": "^4.1.0",
     "react-native-safe-area-context": "^3.1.8",
