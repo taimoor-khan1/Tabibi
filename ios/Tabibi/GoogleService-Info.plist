@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>93108654785-1g1hmso8ac9rkmmfrhq7sup0dmqgm7dj.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.93108654785-1g1hmso8ac9rkmmfrhq7sup0dmqgm7dj</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBNlJmF60r33k2yu-Z1lc07reSqpbxN11g</string>
+	<key>GCM_SENDER_ID</key>
+	<string>93108654785</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.tabibbi.user</string>
+	<key>PROJECT_ID</key>
+	<string>tabibi-8564f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tabibi-8564f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:93108654785:ios:19efe5b93f367f689afa40</string>
+	<key>DATABASE_URL</key>
+	<string>https://tabibi-8564f-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

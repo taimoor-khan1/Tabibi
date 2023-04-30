@@ -1,0 +1,115 @@
+{
+  "project_info": {
+    "project_number": "93108654785",
+    "firebase_url": "https://tabibi-8564f-default-rtdb.firebaseio.com",
+    "project_id": "tabibi-8564f",
+    "storage_bucket": "tabibi-8564f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93108654785:android:4ee30132e344a7289afa40",
+        "android_client_info": {
+          "package_name": "com.tabibi.doctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93108654785-7c139f6qjv1d4u03p58s90in4ka48lo0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tabibi.doctor",
+            "certificate_hash": "0d0afc02ff33461f5b6d5498fc916f77a60041d8"
+          }
+        },
+        {
+          "client_id": "93108654785-varimn5nqkd1efppu1vgtktedfvje8ui.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tabibi.doctor",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "93108654785-gn4pjakf3jfitc0l8ahip4t24rcuvpqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAB0HCJHLveZ3JhVtD_1sxbKxhkQJvzh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93108654785-gn4pjakf3jfitc0l8ahip4t24rcuvpqr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "93108654785-1g1hmso8ac9rkmmfrhq7sup0dmqgm7dj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tabibbi.user"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93108654785:android:0de4b2919c56e3739afa40",
+        "android_client_info": {
+          "package_name": "com.tabibi.patient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93108654785-4m1lpatd0osi5kpb1f96sjlhbhgr7cm6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tabibi.patient",
+            "certificate_hash": "0d0afc02ff33461f5b6d5498fc916f77a60041d8"
+          }
+        },
+        {
+          "client_id": "93108654785-tquh18f85tu5h4ovo3907cs6aeopicqd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tabibi.patient",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "93108654785-gn4pjakf3jfitc0l8ahip4t24rcuvpqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAB0HCJHLveZ3JhVtD_1sxbKxhkQJvzh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93108654785-gn4pjakf3jfitc0l8ahip4t24rcuvpqr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "93108654785-1g1hmso8ac9rkmmfrhq7sup0dmqgm7dj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tabibbi.user"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,22 @@
+npm run patientDebug
+npm run doctorDebug
+
+react-native run-android --variant=doctorDebug --appIdSuffix 'doctor'
+
+./gradlew assemblePatientDebug
+./gradlew assembleDoctorDebug
+
+// for patient release
+./gradlew assemblePatientRelease
+
+// for doctor Release
+./gradlew assembleDoctorRelease
+
+
+setup for new laptop or mac
+1) npm i or yarn
+2) pod install
+3) replace uuid in node_module/opentok-react-native/OTPublisher line 20  to this publisherId: this.props.publisherId, for small screen in video call
+4) replace readme file in node_module/react-native-big-calendar from root project so drag selection work
+
+
